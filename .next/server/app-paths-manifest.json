@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/editar-contacto/[id]/page": "app/editar-contacto/[id]/page.js",
+  "/page": "app/page.js",
+  "/grupos/page": "app/grupos/page.js",
+  "/grupos/editar/[id]/page": "app/grupos/editar/[id]/page.js",
+  "/grupos/nuevo/page": "app/grupos/nuevo/page.js",
+  "/contactos/page": "app/contactos/page.js"
+}
