@@ -11,20 +11,10 @@
       "static/chunks/main-app.js",
       "static/chunks/app/contactos/page.js"
     ],
-    "/contacto/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/contacto/page.js"
-    ],
     "/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/page.js"
-    ],
-    "/editar-contacto/[id]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/editar-contacto/[id]/page.js"
     ],
     "/grupos/page": [
       "static/chunks/webpack.js",
@@ -41,10 +31,15 @@
       "static/chunks/main-app.js",
       "static/chunks/app/grupos/nuevo/page.js"
     ],
-    "/_not-found/page": [
+    "/contactos/nuevo/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/_not-found/page.js"
+      "static/chunks/app/contactos/nuevo/page.js"
+    ],
+    "/contactos/editar/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/contactos/editar/[id]/page.js"
     ]
   }
 }

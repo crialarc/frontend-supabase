@@ -20,7 +20,7 @@ export default function HomePage() {
           📇 Ver Contactos
         </Link>
 
-        <Link href="/contacto" className="block bg-green-600 hover:bg-green-700 text-white font-semibold py-3 px-6 rounded-lg shadow-md transition duration-200">
+        <Link href="/contactos/nuevo" className="block bg-green-600 hover:bg-green-700 text-white font-semibold py-3 px-6 rounded-lg shadow-md transition duration-200">
           ➕ Crear Contacto
         </Link>
       </div>
